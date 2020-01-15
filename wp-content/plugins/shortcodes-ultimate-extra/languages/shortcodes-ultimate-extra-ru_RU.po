@@ -1,0 +1,1593 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Shortcodes Ultimate: Extra Shortcodes\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-24 13:36+0300\n"
+"PO-Revision-Date: 2019-08-24 13:36+0300\n"
+"Last-Translator: Vladimir Anokhin <ano.vladimir@gmail.com>\n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__;esc_html_e;_x:1,2c;_ex:1,2c;esc_html_x:1,2c\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 2.2\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+"X-Poedit-SearchPathExcluded-1: gulpfile.js\n"
+"X-Poedit-SearchPathExcluded-2: package-lock.json\n"
+"X-Poedit-SearchPathExcluded-3: package.json\n"
+
+#: admin/class-shortcodes-ultimate-extra-settings.php:106
+#: admin/partials/settings/sections/general.php:4
+msgid "Extra Shortcodes"
+msgstr "Дополнительные Шорткоды"
+
+#: admin/class-shortcodes-ultimate-extra-settings.php:116
+msgid "License key successfully activated"
+msgstr "Лицензионный ключ успешно активирован"
+
+#: admin/class-shortcodes-ultimate-extra-settings.php:117
+#: admin/class-shortcodes-ultimate-extra-settings.php:118
+#: admin/class-shortcodes-ultimate-extra-settings.php:119
+#: admin/class-shortcodes-ultimate-extra-settings.php:127
+#: admin/class-shortcodes-ultimate-extra-settings.php:128
+#: admin/class-shortcodes-ultimate-extra-settings.php:129
+msgid "Invalid license key"
+msgstr "Неправильный лицензионный ключ"
+
+#: admin/class-shortcodes-ultimate-extra-settings.php:120
+msgid ""
+"License key reached it's activation limit. Deactivate this license key on "
+"other sites"
+msgstr ""
+"Достигнут лимит активаций для лицензионного ключа. Деактивируйте этот "
+"лицензионный ключ на других сайтах"
+
+#: admin/class-shortcodes-ultimate-extra-settings.php:121
+msgid "This license key is intended to use with another add-on"
+msgstr ""
+"Этот лицензионный ключ предназначен для использования с другим дополнением"
+
+#: admin/class-shortcodes-ultimate-extra-settings.php:122
+#: admin/class-shortcodes-ultimate-extra-settings.php:130
+msgid "Unable to connect to activation server, please try again later"
+msgstr ""
+"Не удалось подключиться к серверу активации, пожалуйста повторите попытку "
+"позже"
+
+#: admin/class-shortcodes-ultimate-extra-settings.php:123
+#: admin/class-shortcodes-ultimate-extra-settings.php:131
+msgid "Unknown error"
+msgstr "Неизвестная ошибка"
+
+#: admin/class-shortcodes-ultimate-extra-settings.php:126
+msgid "License key successfully deactivated"
+msgstr "Лицензионный ключ успешно деактивирован"
+
+#: admin/class-shortcodes-ultimate-extra-settings.php:153
+msgid "License key"
+msgstr "Лицензионный ключ"
+
+#: admin/class-shortcodes-ultimate-extra-settings.php:270
+#: admin/class-shortcodes-ultimate-extra-settings.php:301
+msgid "error code"
+msgstr "код ошибки"
+
+#: admin/partials/help/general.php:3
+msgid "Documentation"
+msgstr "Документация"
+
+#: admin/partials/help/general.php:5
+msgid "Add-on documentation"
+msgstr "Документация дополнения"
+
+#: admin/partials/notices/core.php:4 admin/partials/notices/license.php:4
+#: shortcodes-ultimate-extra.php:91
+msgid "Shortcodes Ultimate: Extra Shortcodes"
+msgstr "Шорткоды: Дополнительные Шорткоды"
+
+#: admin/partials/notices/core.php:5
+msgid ""
+"Please install and activate the latest version of Shortcodes Ultimate (core "
+"plugin) in order to use this add-on."
+msgstr ""
+"Пожалуйста установите и активируйте последнюю версию плагина Шорткоды "
+"(основной плагин) чтобы использовать это дополнение."
+
+#: admin/partials/notices/core.php:10
+msgid "Install Now"
+msgstr "Установить сейчас"
+
+#: admin/partials/notices/core.php:11 admin/partials/notices/license.php:8
+msgid "Remind me later"
+msgstr "Напомнить позже"
+
+#: admin/partials/notices/core.php:12 admin/partials/notices/license.php:9
+msgid "Dismiss"
+msgstr "Закрыть"
+
+#: admin/partials/notices/license.php:5
+msgid "Activate your license key to enable automatic updates."
+msgstr ""
+"Активируйте ваш лицензионный ключ, чтобы включить автоматические обновления."
+
+#: admin/partials/notices/license.php:7
+msgid "Enter license key"
+msgstr "Ввести лицензионный ключ"
+
+#: admin/partials/settings/fields/license-key.php:6
+msgctxt "License key is active"
+msgid "Active"
+msgstr "Активен"
+
+#: admin/partials/settings/fields/license-key.php:8
+msgctxt "License key is not active"
+msgid "Inactive"
+msgstr "Неактивен"
+
+#: admin/partials/settings/fields/license-key.php:12
+msgid "Enter license key to enable automatic updates"
+msgstr "Введите лицензионный ключ, чтобы включить автоматические обновления"
+
+#: admin/partials/settings/fields/license-key.php:13
+msgid "How to activate license key"
+msgstr "Как активировать лицензионный ключ"
+
+#: includes/class-shortcodes-ultimate-extra-shortcodes.php:33
+#: includes/class-shortcodes-ultimate-extra-shortcodes.php:70
+msgid ""
+"This shortcode doesn't work in live preview. Please insert it into editor "
+"and preview on the site."
+msgstr ""
+"Этот шорткод не работает в режиме предпросмотра. Пожалуйста вставьте шорткод "
+"в редактор и посмотрите результат на странице записи."
+
+#: includes/class-shortcodes-ultimate-extra-shortcodes.php:299
+#: includes/class-shortcodes-ultimate-extra.php:1033
+msgid "John Doe"
+msgstr "Иван Иванов"
+
+#: includes/class-shortcodes-ultimate-extra-shortcodes.php:300
+#: includes/class-shortcodes-ultimate-extra.php:1038
+msgid "Designer"
+msgstr "Дизайнер"
+
+#: includes/class-shortcodes-ultimate-extra-shortcodes.php:427
+msgid ""
+"You need to add pricing plans to this pricing table. Use shortcode Pricing "
+"plan to do that."
+msgstr ""
+"Нужно добавить арифные планы в эту таблицу. Используйте шорткод Тарифный "
+"план, чтобы сделать это."
+
+#: includes/class-shortcodes-ultimate-extra.php:276
+msgctxt "Custom shortcodes group name"
+msgid "Extra Shortcodes"
+msgstr "Дополнительные Шорткоды"
+
+#: includes/class-shortcodes-ultimate-extra.php:294
+msgid "Splash screen"
+msgstr "Приветственный экран"
+
+#: includes/class-shortcodes-ultimate-extra.php:297
+msgid "Splash screen content"
+msgstr "Содержимое приветственного экрана"
+
+#: includes/class-shortcodes-ultimate-extra.php:298
+msgid "Fully customizable splash screen"
+msgstr "Полностью настраиваемый приветственный экран"
+
+#: includes/class-shortcodes-ultimate-extra.php:306
+#: includes/class-shortcodes-ultimate-extra.php:403
+#: includes/class-shortcodes-ultimate-extra.php:922
+#: includes/class-shortcodes-ultimate-extra.php:1569
+#: includes/class-shortcodes-ultimate-extra.php:1683
+msgid "Style"
+msgstr "Стиль"
+
+#: includes/class-shortcodes-ultimate-extra.php:307
+msgid "Choose splash screen style"
+msgstr "Выберите стиль приветственного экрана"
+
+#: includes/class-shortcodes-ultimate-extra.php:309
+#: includes/class-shortcodes-ultimate-extra.php:406
+#: includes/class-shortcodes-ultimate-extra.php:1573
+msgid "Dark"
+msgstr "Темный"
+
+#: includes/class-shortcodes-ultimate-extra.php:310
+#: includes/class-shortcodes-ultimate-extra.php:407
+msgid "Dark boxed"
+msgstr "Темный блочный"
+
+#: includes/class-shortcodes-ultimate-extra.php:311
+#: includes/class-shortcodes-ultimate-extra.php:408
+#: includes/class-shortcodes-ultimate-extra.php:1574
+msgid "Light"
+msgstr "Светлый"
+
+#: includes/class-shortcodes-ultimate-extra.php:312
+#: includes/class-shortcodes-ultimate-extra.php:409
+msgid "Light boxed"
+msgstr "Светлый блочный"
+
+#: includes/class-shortcodes-ultimate-extra.php:313
+#: includes/class-shortcodes-ultimate-extra.php:410
+msgid "Blue boxed"
+msgstr "Голубой блочный"
+
+#: includes/class-shortcodes-ultimate-extra.php:314
+#: includes/class-shortcodes-ultimate-extra.php:411
+msgid "Light boxed blue"
+msgstr "Светлый блочный голубой"
+
+#: includes/class-shortcodes-ultimate-extra.php:315
+#: includes/class-shortcodes-ultimate-extra.php:412
+msgid "Light boxed green"
+msgstr "Светлый блочный зеленый"
+
+#: includes/class-shortcodes-ultimate-extra.php:316
+#: includes/class-shortcodes-ultimate-extra.php:413
+msgid "Light boxed orange"
+msgstr "Светлый блочный оранжевый"
+
+#: includes/class-shortcodes-ultimate-extra.php:317
+#: includes/class-shortcodes-ultimate-extra.php:414
+msgid "Maintenance"
+msgstr "Обслуживание"
+
+#: includes/class-shortcodes-ultimate-extra.php:326
+#: includes/class-shortcodes-ultimate-extra.php:423
+msgid "Width"
+msgstr "Ширина"
+
+#: includes/class-shortcodes-ultimate-extra.php:327
+msgid "Width of splash screen content"
+msgstr "Ширина содержимого экрана"
+
+#: includes/class-shortcodes-ultimate-extra.php:335
+#: includes/class-shortcodes-ultimate-extra.php:432
+msgid "Opacity"
+msgstr "Непрозрачность"
+
+#: includes/class-shortcodes-ultimate-extra.php:336
+#: includes/class-shortcodes-ultimate-extra.php:433
+msgid "Background opacity in percents"
+msgstr "Непрозрачность фона в процентах"
+
+#: includes/class-shortcodes-ultimate-extra.php:341
+#: includes/class-shortcodes-ultimate-extra.php:438
+msgid "Action on click"
+msgstr "Действие при клике"
+
+#: includes/class-shortcodes-ultimate-extra.php:342
+msgid "Choose splash screen behavior when it is clicked"
+msgstr "Выберите поведение экрана когда по нему кликнули"
+
+#: includes/class-shortcodes-ultimate-extra.php:344
+#: includes/class-shortcodes-ultimate-extra.php:441
+msgid "Do nothing"
+msgstr "Ничего не делать"
+
+#: includes/class-shortcodes-ultimate-extra.php:345
+msgid "Close splash screen (click anywhere)"
+msgstr "Закрыть приветственный экран (клик в любом месте)"
+
+#: includes/class-shortcodes-ultimate-extra.php:346
+#: includes/class-shortcodes-ultimate-extra.php:443
+msgid "Close on background click"
+msgstr "Закрыть при клике по фону"
+
+#: includes/class-shortcodes-ultimate-extra.php:347
+#: includes/class-shortcodes-ultimate-extra.php:444
+msgid "Go to specified url"
+msgstr "Перейти по указанной ссылке"
+
+#: includes/class-shortcodes-ultimate-extra.php:351
+#: includes/class-shortcodes-ultimate-extra.php:448
+#: includes/class-shortcodes-ultimate-extra.php:535
+#: includes/class-shortcodes-ultimate-extra.php:624
+#: includes/class-shortcodes-ultimate-extra.php:723
+#: includes/class-shortcodes-ultimate-extra.php:784
+#: includes/class-shortcodes-ultimate-extra.php:1110
+#: includes/class-shortcodes-ultimate-extra.php:1229
+#: includes/class-shortcodes-ultimate-extra.php:1534
+msgid "URL"
+msgstr "Ссылка"
+
+#: includes/class-shortcodes-ultimate-extra.php:352
+msgid ""
+"Enter url to go when splash screen is clicked (this option must selected in "
+"dropdown list above)"
+msgstr ""
+"Укажите ссылку для перехода при клике по экрану (нужно выбрать "
+"соответствующую опцию в выпадающем списке выше)"
+
+#: includes/class-shortcodes-ultimate-extra.php:361
+msgid "Delay"
+msgstr "Задержка"
+
+#: includes/class-shortcodes-ultimate-extra.php:362
+msgid "Specify the time in which the splash screen will be shown (in seconds)"
+msgstr "Укажите время, через которое будет показан экран (в секундах)"
+
+#: includes/class-shortcodes-ultimate-extra.php:367
+#: includes/class-shortcodes-ultimate-extra.php:455
+msgid "Esc hotkey"
+msgstr "Клавиша Esc"
+
+#: includes/class-shortcodes-ultimate-extra.php:368
+msgid "Close the screen by pressing Esc"
+msgstr "Закрыть экран при нажатии клавиши Esc"
+
+#: includes/class-shortcodes-ultimate-extra.php:373
+#: includes/class-shortcodes-ultimate-extra.php:461
+msgid "Close button"
+msgstr "Кнопка Закрыть"
+
+#: includes/class-shortcodes-ultimate-extra.php:374
+#: includes/class-shortcodes-ultimate-extra.php:462
+msgid "Show Close button"
+msgstr "Отображать кнопку Закрыть"
+
+#: includes/class-shortcodes-ultimate-extra.php:379
+#: includes/class-shortcodes-ultimate-extra.php:467
+msgid "Show once"
+msgstr "Показать один раз"
+
+#: includes/class-shortcodes-ultimate-extra.php:380
+msgid "Show this splash screen only once on this page"
+msgstr "Показывать этот экран только один раз на этой странице"
+
+#: includes/class-shortcodes-ultimate-extra.php:384
+#: includes/class-shortcodes-ultimate-extra.php:472
+#: includes/class-shortcodes-ultimate-extra.php:550
+#: includes/class-shortcodes-ultimate-extra.php:639
+#: includes/class-shortcodes-ultimate-extra.php:738
+#: includes/class-shortcodes-ultimate-extra.php:799
+#: includes/class-shortcodes-ultimate-extra.php:898
+#: includes/class-shortcodes-ultimate-extra.php:965
+#: includes/class-shortcodes-ultimate-extra.php:1115
+#: includes/class-shortcodes-ultimate-extra.php:1244
+#: includes/class-shortcodes-ultimate-extra.php:1264
+#: includes/class-shortcodes-ultimate-extra.php:1394
+#: includes/class-shortcodes-ultimate-extra.php:1450
+#: includes/class-shortcodes-ultimate-extra.php:1549
+#: includes/class-shortcodes-ultimate-extra.php:1638
+#: includes/class-shortcodes-ultimate-extra.php:1663
+#: includes/class-shortcodes-ultimate-extra.php:1703
+msgid "Extra CSS class"
+msgstr "Дополнительный CSS класс"
+
+#: includes/class-shortcodes-ultimate-extra.php:385
+#: includes/class-shortcodes-ultimate-extra.php:473
+#: includes/class-shortcodes-ultimate-extra.php:551
+#: includes/class-shortcodes-ultimate-extra.php:640
+#: includes/class-shortcodes-ultimate-extra.php:739
+#: includes/class-shortcodes-ultimate-extra.php:800
+#: includes/class-shortcodes-ultimate-extra.php:899
+#: includes/class-shortcodes-ultimate-extra.php:966
+#: includes/class-shortcodes-ultimate-extra.php:1116
+#: includes/class-shortcodes-ultimate-extra.php:1245
+#: includes/class-shortcodes-ultimate-extra.php:1395
+#: includes/class-shortcodes-ultimate-extra.php:1451
+#: includes/class-shortcodes-ultimate-extra.php:1550
+#: includes/class-shortcodes-ultimate-extra.php:1639
+#: includes/class-shortcodes-ultimate-extra.php:1664
+#: includes/class-shortcodes-ultimate-extra.php:1704
+msgid "Additional CSS class name(s) separated by space(s)"
+msgstr "Дополнительные имена CSS классов, разделенные пробелами"
+
+#: includes/class-shortcodes-ultimate-extra.php:391
+msgid "Exit popup"
+msgstr "Экран выхода"
+
+#: includes/class-shortcodes-ultimate-extra.php:394
+msgid "Exit popup content"
+msgstr "Содержимое экрана выхода"
+
+#: includes/class-shortcodes-ultimate-extra.php:395
+msgid "Fully customizable exit popup"
+msgstr ""
+"Полностью настраиваемый экран выхода. Показывается пользователю, когда он "
+"уходит с сайта"
+
+#: includes/class-shortcodes-ultimate-extra.php:404
+msgid "Choose exit popup style"
+msgstr "Выберите стиль экрана выхода"
+
+#: includes/class-shortcodes-ultimate-extra.php:424
+msgid "Width of exit popup content"
+msgstr "Ширина содержимого экрана выхода"
+
+#: includes/class-shortcodes-ultimate-extra.php:439
+msgid "Choose exit popup behavior when it is clicked"
+msgstr "Выберите поведение экрана когда по нему кликнули"
+
+#: includes/class-shortcodes-ultimate-extra.php:442
+msgid "Close exit popup (click anywhere)"
+msgstr "Закрыть экран выхода (клик в любом месте)"
+
+#: includes/class-shortcodes-ultimate-extra.php:449
+msgid ""
+"Enter url to go when exit popup is clicked (this option must selected in "
+"dropdown list above)"
+msgstr ""
+"Укажите ссылку для перехода при клике по экрану (нужно выбрать "
+"соответствующую опцию в выпадающем списке выше)"
+
+#: includes/class-shortcodes-ultimate-extra.php:456
+msgid "Close popup by pressing Esc"
+msgstr "Закрывать окно при нажатии Esc"
+
+#: includes/class-shortcodes-ultimate-extra.php:468
+msgid "Show this exit popup only once on this page"
+msgstr "Показывать это выходное окно только один раз на этой странице"
+
+#: includes/class-shortcodes-ultimate-extra.php:480
+msgid "Panel"
+msgstr "Блок"
+
+#: includes/class-shortcodes-ultimate-extra.php:483
+#: includes/class-shortcodes-ultimate-extra.php:561
+#: includes/class-shortcodes-ultimate-extra.php:650
+msgid "Panel content"
+msgstr "Содержимое блока"
+
+#: includes/class-shortcodes-ultimate-extra.php:484
+msgid "Colorful box with custom content"
+msgstr "Цветной блок с произвольным содержимым"
+
+#: includes/class-shortcodes-ultimate-extra.php:492
+#: includes/class-shortcodes-ultimate-extra.php:570
+#: includes/class-shortcodes-ultimate-extra.php:659
+#: includes/class-shortcodes-ultimate-extra.php:985
+#: includes/class-shortcodes-ultimate-extra.php:1476
+msgid "Background"
+msgstr "Фон"
+
+#: includes/class-shortcodes-ultimate-extra.php:493
+#: includes/class-shortcodes-ultimate-extra.php:571
+#: includes/class-shortcodes-ultimate-extra.php:660
+#: includes/class-shortcodes-ultimate-extra.php:986
+msgid "Panel background color"
+msgstr "Цвет фона блока"
+
+#: includes/class-shortcodes-ultimate-extra.php:498
+#: includes/class-shortcodes-ultimate-extra.php:576
+#: includes/class-shortcodes-ultimate-extra.php:665
+#: includes/class-shortcodes-ultimate-extra.php:758
+#: includes/class-shortcodes-ultimate-extra.php:991
+#: includes/class-shortcodes-ultimate-extra.php:1482
+msgid "Color"
+msgstr "Цвет"
+
+#: includes/class-shortcodes-ultimate-extra.php:499
+#: includes/class-shortcodes-ultimate-extra.php:577
+#: includes/class-shortcodes-ultimate-extra.php:666
+#: includes/class-shortcodes-ultimate-extra.php:992
+msgid "Panel text color"
+msgstr "Цвет текста в блоке"
+
+#: includes/class-shortcodes-ultimate-extra.php:504
+#: includes/class-shortcodes-ultimate-extra.php:582
+#: includes/class-shortcodes-ultimate-extra.php:671
+#: includes/class-shortcodes-ultimate-extra.php:997
+#: includes/class-shortcodes-ultimate-extra.php:1201
+msgid "Border"
+msgstr "Рамка"
+
+#: includes/class-shortcodes-ultimate-extra.php:505
+#: includes/class-shortcodes-ultimate-extra.php:583
+#: includes/class-shortcodes-ultimate-extra.php:672
+#: includes/class-shortcodes-ultimate-extra.php:998
+msgid "Panel border"
+msgstr "Рамка блока"
+
+#: includes/class-shortcodes-ultimate-extra.php:510
+#: includes/class-shortcodes-ultimate-extra.php:588
+#: includes/class-shortcodes-ultimate-extra.php:677
+#: includes/class-shortcodes-ultimate-extra.php:1003
+#: includes/class-shortcodes-ultimate-extra.php:1672
+msgid "Shadow"
+msgstr "Тень"
+
+#: includes/class-shortcodes-ultimate-extra.php:511
+#: includes/class-shortcodes-ultimate-extra.php:589
+#: includes/class-shortcodes-ultimate-extra.php:678
+#: includes/class-shortcodes-ultimate-extra.php:1004
+msgid "Panel shadow"
+msgstr "Тень блока"
+
+#: includes/class-shortcodes-ultimate-extra.php:519
+#: includes/class-shortcodes-ultimate-extra.php:597
+#: includes/class-shortcodes-ultimate-extra.php:686
+#: includes/class-shortcodes-ultimate-extra.php:1012
+msgid "Border radius"
+msgstr "Скругление углов"
+
+#: includes/class-shortcodes-ultimate-extra.php:520
+#: includes/class-shortcodes-ultimate-extra.php:598
+#: includes/class-shortcodes-ultimate-extra.php:687
+#: includes/class-shortcodes-ultimate-extra.php:1013
+msgid "Panel border radius (px)"
+msgstr "Радиус для углов блока (px)"
+
+#: includes/class-shortcodes-ultimate-extra.php:526
+#: includes/class-shortcodes-ultimate-extra.php:604
+#: includes/class-shortcodes-ultimate-extra.php:695
+#: includes/class-shortcodes-ultimate-extra.php:870
+#: includes/class-shortcodes-ultimate-extra.php:1019
+#: includes/class-shortcodes-ultimate-extra.php:1214
+msgid "Left"
+msgstr "Слева"
+
+#: includes/class-shortcodes-ultimate-extra.php:527
+#: includes/class-shortcodes-ultimate-extra.php:605
+#: includes/class-shortcodes-ultimate-extra.php:696
+#: includes/class-shortcodes-ultimate-extra.php:871
+#: includes/class-shortcodes-ultimate-extra.php:1020
+#: includes/class-shortcodes-ultimate-extra.php:1215
+msgid "Center"
+msgstr "По центру"
+
+#: includes/class-shortcodes-ultimate-extra.php:528
+#: includes/class-shortcodes-ultimate-extra.php:606
+#: includes/class-shortcodes-ultimate-extra.php:697
+#: includes/class-shortcodes-ultimate-extra.php:872
+#: includes/class-shortcodes-ultimate-extra.php:1021
+#: includes/class-shortcodes-ultimate-extra.php:1216
+msgid "Right"
+msgstr "Справа"
+
+#: includes/class-shortcodes-ultimate-extra.php:530
+#: includes/class-shortcodes-ultimate-extra.php:608
+#: includes/class-shortcodes-ultimate-extra.php:692
+#: includes/class-shortcodes-ultimate-extra.php:1023
+#: includes/class-shortcodes-ultimate-extra.php:1218
+msgid "Text align"
+msgstr "Выравнивание текста"
+
+#: includes/class-shortcodes-ultimate-extra.php:531
+#: includes/class-shortcodes-ultimate-extra.php:609
+#: includes/class-shortcodes-ultimate-extra.php:693
+#: includes/class-shortcodes-ultimate-extra.php:1024
+#: includes/class-shortcodes-ultimate-extra.php:1219
+msgid "Text alignment for panel content"
+msgstr "Выравнивание текста в блоке"
+
+#: includes/class-shortcodes-ultimate-extra.php:536
+#: includes/class-shortcodes-ultimate-extra.php:625
+#: includes/class-shortcodes-ultimate-extra.php:724
+#: includes/class-shortcodes-ultimate-extra.php:785
+#: includes/class-shortcodes-ultimate-extra.php:1111
+msgid "You can type here any hyperlink to make this panel clickable"
+msgstr ""
+"Вы можете ввести здесь любую ссылку чтобы сделать этот блок кликабельным"
+
+#: includes/class-shortcodes-ultimate-extra.php:541
+#: includes/class-shortcodes-ultimate-extra.php:630
+#: includes/class-shortcodes-ultimate-extra.php:729
+#: includes/class-shortcodes-ultimate-extra.php:790
+#: includes/class-shortcodes-ultimate-extra.php:1235
+#: includes/class-shortcodes-ultimate-extra.php:1435
+#: includes/class-shortcodes-ultimate-extra.php:1540
+msgid "Link target"
+msgstr "Цель ссылки"
+
+#: includes/class-shortcodes-ultimate-extra.php:542
+#: includes/class-shortcodes-ultimate-extra.php:631
+#: includes/class-shortcodes-ultimate-extra.php:730
+#: includes/class-shortcodes-ultimate-extra.php:791
+#: includes/class-shortcodes-ultimate-extra.php:1236
+#: includes/class-shortcodes-ultimate-extra.php:1436
+msgid "Choose link target"
+msgstr "Выберите цель ссылки"
+
+#: includes/class-shortcodes-ultimate-extra.php:544
+#: includes/class-shortcodes-ultimate-extra.php:633
+#: includes/class-shortcodes-ultimate-extra.php:732
+#: includes/class-shortcodes-ultimate-extra.php:793
+#: includes/class-shortcodes-ultimate-extra.php:1238
+#: includes/class-shortcodes-ultimate-extra.php:1371
+#: includes/class-shortcodes-ultimate-extra.php:1438
+#: includes/class-shortcodes-ultimate-extra.php:1543
+msgid "Open link in same window/tab"
+msgstr "Открывать ссылку в том же окне/вкладке"
+
+#: includes/class-shortcodes-ultimate-extra.php:545
+#: includes/class-shortcodes-ultimate-extra.php:634
+#: includes/class-shortcodes-ultimate-extra.php:733
+#: includes/class-shortcodes-ultimate-extra.php:794
+#: includes/class-shortcodes-ultimate-extra.php:1239
+#: includes/class-shortcodes-ultimate-extra.php:1372
+#: includes/class-shortcodes-ultimate-extra.php:1439
+#: includes/class-shortcodes-ultimate-extra.php:1544
+msgid "Open link in new window/tab"
+msgstr "Открывать ссылку в новом окне/вкладке"
+
+#: includes/class-shortcodes-ultimate-extra.php:558
+msgid "Photo panel"
+msgstr "Фото блок"
+
+#: includes/class-shortcodes-ultimate-extra.php:562
+msgid "Colorful box with image"
+msgstr "Цветной блок с фотографией"
+
+#: includes/class-shortcodes-ultimate-extra.php:614
+#: includes/class-shortcodes-ultimate-extra.php:1029
+msgid "Photo"
+msgstr "Фото"
+
+#: includes/class-shortcodes-ultimate-extra.php:615
+msgid "Select the photo for this panel"
+msgstr "Выберите изображенние для этого блока"
+
+#: includes/class-shortcodes-ultimate-extra.php:619
+msgid "Alternative image text"
+msgstr "Альтернативный текст изображения"
+
+#: includes/class-shortcodes-ultimate-extra.php:620
+msgid "Alternative image text (alt attribute)"
+msgstr "Альтернативный текст изображения (атрибут alt)"
+
+#: includes/class-shortcodes-ultimate-extra.php:647
+msgid "Icon panel"
+msgstr "Блок с иконкой"
+
+#: includes/class-shortcodes-ultimate-extra.php:651
+msgid "Colorful box with icon"
+msgstr "Цветной блок с иконкой"
+
+#: includes/class-shortcodes-ultimate-extra.php:703
+#: includes/class-shortcodes-ultimate-extra.php:764
+#: includes/class-shortcodes-ultimate-extra.php:1342
+#: includes/class-shortcodes-ultimate-extra.php:1459
+#: includes/class-shortcodes-ultimate-extra.php:1470
+msgid "Icon"
+msgstr "Иконка"
+
+#: includes/class-shortcodes-ultimate-extra.php:704
+msgid "Select the icon for this panel"
+msgstr "Выберите иконку для этого блока"
+
+#: includes/class-shortcodes-ultimate-extra.php:709
+#: includes/class-shortcodes-ultimate-extra.php:770
+#: includes/class-shortcodes-ultimate-extra.php:1348
+msgid "Icon color"
+msgstr "Цвет иконки"
+
+#: includes/class-shortcodes-ultimate-extra.php:710
+#: includes/class-shortcodes-ultimate-extra.php:771
+msgid ""
+"Select icon color. This color will be aplied only to built-in icons. Does "
+"not works for uploaded icons"
+msgstr ""
+"Выберите цвет иконки. Этот цвет будет применен к выбранной иконке. Не "
+"работает с загруженными иконками"
+
+#: includes/class-shortcodes-ultimate-extra.php:718
+#: includes/class-shortcodes-ultimate-extra.php:779
+#: includes/class-shortcodes-ultimate-extra.php:1357
+msgid "Icon size"
+msgstr "Размер иконки"
+
+#: includes/class-shortcodes-ultimate-extra.php:719
+#: includes/class-shortcodes-ultimate-extra.php:780
+msgid "Select icon size (px)"
+msgstr "Выберите размер иконки (px)"
+
+#: includes/class-shortcodes-ultimate-extra.php:746
+msgid "Text with icon"
+msgstr "Текст с иконкой"
+
+#: includes/class-shortcodes-ultimate-extra.php:749
+msgid "Content"
+msgstr "Содержимое"
+
+#: includes/class-shortcodes-ultimate-extra.php:750
+msgid "Text block with customizable icon"
+msgstr "Текстовый блок с настраиваемой иконкой"
+
+#: includes/class-shortcodes-ultimate-extra.php:759
+#: includes/class-shortcodes-ultimate-extra.php:893
+#: includes/class-shortcodes-ultimate-extra.php:954
+#: includes/class-shortcodes-ultimate-extra.php:1207
+#: includes/class-shortcodes-ultimate-extra.php:1324
+#: includes/class-shortcodes-ultimate-extra.php:1488
+msgid "Text color"
+msgstr "Цвет текста"
+
+#: includes/class-shortcodes-ultimate-extra.php:765
+msgid "Select the icon for this text block"
+msgstr "Выберите иконку для этого текстового блока"
+
+#: includes/class-shortcodes-ultimate-extra.php:807
+msgid "Progress pie"
+msgstr "Прогресс пирог"
+
+#: includes/class-shortcodes-ultimate-extra.php:810
+msgid "Customizable pie chart with counter"
+msgstr "Настраиваемый график в виде пирога со счетчиком"
+
+#: includes/class-shortcodes-ultimate-extra.php:821
+#: includes/class-shortcodes-ultimate-extra.php:931
+msgid "Percent"
+msgstr "Процент"
+
+#: includes/class-shortcodes-ultimate-extra.php:822
+#: includes/class-shortcodes-ultimate-extra.php:932
+msgid "Specify percentage"
+msgstr "Укажите процент"
+
+#: includes/class-shortcodes-ultimate-extra.php:826
+#: includes/class-shortcodes-ultimate-extra.php:936
+msgid "Text"
+msgstr "Текст"
+
+#: includes/class-shortcodes-ultimate-extra.php:827
+#: includes/class-shortcodes-ultimate-extra.php:937
+msgid ""
+"You can show custom text instead of percent. Leave this field empty to show "
+"the percent"
+msgstr ""
+"Вы можете отобразить произвольный текст вместо процента. Оставьте это поле "
+"пустым чтобы отобразить процент"
+
+#: includes/class-shortcodes-ultimate-extra.php:831
+msgid "Before"
+msgstr "Перед"
+
+#: includes/class-shortcodes-ultimate-extra.php:832
+msgid "This content will be shown before the percent"
+msgstr "Этот текст будет отображен перед процентом"
+
+#: includes/class-shortcodes-ultimate-extra.php:836
+msgid "After"
+msgstr "После"
+
+#: includes/class-shortcodes-ultimate-extra.php:837
+msgid "This content will be shown after the percent"
+msgstr "Этот текст будет отображен после процента"
+
+#: includes/class-shortcodes-ultimate-extra.php:845
+#: includes/class-shortcodes-ultimate-extra.php:1497
+msgid "Size"
+msgstr "Размер"
+
+#: includes/class-shortcodes-ultimate-extra.php:846
+msgid "Pie size (pixels)"
+msgstr "Размер пирога (пикс.)"
+
+#: includes/class-shortcodes-ultimate-extra.php:854
+msgid "Pie width"
+msgstr "Толщина пирога"
+
+#: includes/class-shortcodes-ultimate-extra.php:855
+msgid "Pie border width (percents)"
+msgstr "Толщина границы пирога (проценты)"
+
+#: includes/class-shortcodes-ultimate-extra.php:863
+#: includes/class-shortcodes-ultimate-extra.php:1524
+msgid "Text size"
+msgstr "Размер текста"
+
+#: includes/class-shortcodes-ultimate-extra.php:864
+msgid "Pie text size (pixels)"
+msgstr "Размер текста внутри пирога (пикс.)"
+
+#: includes/class-shortcodes-ultimate-extra.php:869
+msgid "None"
+msgstr "Нет"
+
+#: includes/class-shortcodes-ultimate-extra.php:875
+msgid "Align"
+msgstr "Выравнивание"
+
+#: includes/class-shortcodes-ultimate-extra.php:876
+msgid "Pie alignment"
+msgstr "Выравнивание пирога"
+
+#: includes/class-shortcodes-ultimate-extra.php:881
+msgid "Pie color"
+msgstr "Цвет пирога"
+
+#: includes/class-shortcodes-ultimate-extra.php:882
+msgid "Unfilled pie background color"
+msgstr "Цвет незаполненной области пирога"
+
+#: includes/class-shortcodes-ultimate-extra.php:887
+#: includes/class-shortcodes-ultimate-extra.php:948
+msgid "Fill color"
+msgstr "Цвет заливки"
+
+#: includes/class-shortcodes-ultimate-extra.php:888
+msgid "Filled pie background color"
+msgstr "Цвет заполненной области пирога"
+
+#: includes/class-shortcodes-ultimate-extra.php:894
+msgid "Select pie text color"
+msgstr "Выберите цвет текста внутри пирога"
+
+#: includes/class-shortcodes-ultimate-extra.php:906
+msgid "Progress bar"
+msgstr "Прогресс бар"
+
+#: includes/class-shortcodes-ultimate-extra.php:909
+msgid "Customizable progress bar"
+msgstr "Настраиваемый индикатор процентов в виде полосы"
+
+#: includes/class-shortcodes-ultimate-extra.php:917
+#: includes/class-shortcodes-ultimate-extra.php:1572
+#: includes/class-shortcodes-ultimate-extra.php:1686
+msgid "Default"
+msgstr "По умолчанию"
+
+#: includes/class-shortcodes-ultimate-extra.php:918
+msgid "Fancy"
+msgstr "Красивый"
+
+#: includes/class-shortcodes-ultimate-extra.php:919
+msgid "Thin"
+msgstr "Тонкий"
+
+#: includes/class-shortcodes-ultimate-extra.php:923
+msgid "Select progress bar style"
+msgstr "Выберите стиль прогресс бара"
+
+#: includes/class-shortcodes-ultimate-extra.php:942
+msgid "Bar color"
+msgstr "Цвет бара"
+
+#: includes/class-shortcodes-ultimate-extra.php:943
+msgid "Unfilled bar background color"
+msgstr "Цвет незаполненной части бара"
+
+#: includes/class-shortcodes-ultimate-extra.php:949
+msgid "Filled bar background color"
+msgstr "Цвет заполненной части бара"
+
+#: includes/class-shortcodes-ultimate-extra.php:955
+msgid "Select bar text color"
+msgstr "Выберите цвет текста бара"
+
+#: includes/class-shortcodes-ultimate-extra.php:960
+msgid "Animation"
+msgstr "Анимация"
+
+#: includes/class-shortcodes-ultimate-extra.php:961
+msgid "Enables progress bar animation"
+msgstr "Включает анимацию полосы"
+
+#: includes/class-shortcodes-ultimate-extra.php:973
+msgid "Member"
+msgstr "Участник"
+
+#: includes/class-shortcodes-ultimate-extra.php:976
+msgid "Type here some info about this team member"
+msgstr "Введите здесь информацию о данном участнике команды"
+
+#: includes/class-shortcodes-ultimate-extra.php:977
+msgid "Team member"
+msgstr "Участник команды"
+
+#: includes/class-shortcodes-ultimate-extra.php:1030
+msgid "Select the photo for this member"
+msgstr "Выберите фото для этого участника"
+
+#: includes/class-shortcodes-ultimate-extra.php:1034
+msgid "Name"
+msgstr "Имя"
+
+#: includes/class-shortcodes-ultimate-extra.php:1035
+msgid "Member name"
+msgstr "Имя члена команды"
+
+#: includes/class-shortcodes-ultimate-extra.php:1039
+msgid "Role"
+msgstr "Должность"
+
+#: includes/class-shortcodes-ultimate-extra.php:1040
+msgid "Member role"
+msgstr "Должность члена команды"
+
+#: includes/class-shortcodes-ultimate-extra.php:1045
+#: includes/class-shortcodes-ultimate-extra.php:1067
+#: includes/class-shortcodes-ultimate-extra.php:1089
+#, php-format
+msgid "Icon %d"
+msgstr "Иконка %d"
+
+#: includes/class-shortcodes-ultimate-extra.php:1046
+#: includes/class-shortcodes-ultimate-extra.php:1068
+#: includes/class-shortcodes-ultimate-extra.php:1090
+msgid "Select social icon for this member"
+msgstr "Выберите соц. иконку для этого участника"
+
+#: includes/class-shortcodes-ultimate-extra.php:1050
+#: includes/class-shortcodes-ultimate-extra.php:1072
+#: includes/class-shortcodes-ultimate-extra.php:1094
+#, php-format
+msgid "Icon %d URL"
+msgstr "URL иконки %d"
+
+#: includes/class-shortcodes-ultimate-extra.php:1051
+#: includes/class-shortcodes-ultimate-extra.php:1073
+#: includes/class-shortcodes-ultimate-extra.php:1095
+msgid "Enter here social profile URL"
+msgstr "Введите здесь ссылку на соц. профиль участника"
+
+#: includes/class-shortcodes-ultimate-extra.php:1056
+#: includes/class-shortcodes-ultimate-extra.php:1078
+#: includes/class-shortcodes-ultimate-extra.php:1100
+#, php-format
+msgid "Icon %d color"
+msgstr "Цвет иконки %d"
+
+#: includes/class-shortcodes-ultimate-extra.php:1057
+#: includes/class-shortcodes-ultimate-extra.php:1079
+#: includes/class-shortcodes-ultimate-extra.php:1101
+msgid ""
+"Choose color for this icon. This color will only be applied to the built-in "
+"icons"
+msgstr ""
+"Выберите цвет этой иконки. Этот цвет будет применен только ко встроенным "
+"иконкам плагина"
+
+#: includes/class-shortcodes-ultimate-extra.php:1061
+#: includes/class-shortcodes-ultimate-extra.php:1083
+#: includes/class-shortcodes-ultimate-extra.php:1105
+#, php-format
+msgid "Icon %d title"
+msgstr "Всплывающая посказка иконки %d"
+
+#: includes/class-shortcodes-ultimate-extra.php:1062
+#: includes/class-shortcodes-ultimate-extra.php:1084
+#: includes/class-shortcodes-ultimate-extra.php:1106
+msgid "This text will be shown as icon tooltip"
+msgstr "Этот текст будет отображен как всплывающая подсказка иконки"
+
+#: includes/class-shortcodes-ultimate-extra.php:1123
+msgid "Section"
+msgstr "Секция"
+
+#: includes/class-shortcodes-ultimate-extra.php:1126
+msgid "Section content"
+msgstr "Содержимое секции"
+
+#: includes/class-shortcodes-ultimate-extra.php:1127
+msgid ""
+"Content section with customizable background, dimensions and optional "
+"parallax effect"
+msgstr ""
+"Секция с контентом с настраиваемыми фоном, размерами и параллакс эффектом"
+
+#: includes/class-shortcodes-ultimate-extra.php:1135
+#: includes/class-shortcodes-ultimate-extra.php:1318
+msgid "Background color"
+msgstr "Цвет фона"
+
+#: includes/class-shortcodes-ultimate-extra.php:1136
+msgid "Section background color"
+msgstr "Цвет фона секции"
+
+#: includes/class-shortcodes-ultimate-extra.php:1141
+msgid "Background image"
+msgstr "Фоновое изображение"
+
+#: includes/class-shortcodes-ultimate-extra.php:1142
+#, php-format
+msgid "Select background image for this section. Example value: %s"
+msgstr "Выберите фоновое изображение для этой секции. Пример значения: %s"
+
+#: includes/class-shortcodes-ultimate-extra.php:1148
+msgid "Left Top"
+msgstr "Слева Вверху"
+
+#: includes/class-shortcodes-ultimate-extra.php:1149
+msgid "Center Top"
+msgstr "По центру Вверху"
+
+#: includes/class-shortcodes-ultimate-extra.php:1150
+msgid "Right Top"
+msgstr "Справа Сверху"
+
+#: includes/class-shortcodes-ultimate-extra.php:1151
+msgid "Left Center"
+msgstr "Слева По центру"
+
+#: includes/class-shortcodes-ultimate-extra.php:1152
+msgid "Center Center"
+msgstr "По центру"
+
+#: includes/class-shortcodes-ultimate-extra.php:1153
+msgid "Right Center"
+msgstr "Справа По центру"
+
+#: includes/class-shortcodes-ultimate-extra.php:1154
+msgid "Left Bottom"
+msgstr "Слева Внизу"
+
+#: includes/class-shortcodes-ultimate-extra.php:1155
+msgid "Center Bottom"
+msgstr "По центру Внизу"
+
+#: includes/class-shortcodes-ultimate-extra.php:1156
+msgid "Right Bottom"
+msgstr "Справа Внизу"
+
+#: includes/class-shortcodes-ultimate-extra.php:1158
+msgid "Background image position"
+msgstr "Положение фонового изображения"
+
+#: includes/class-shortcodes-ultimate-extra.php:1159
+msgid "This option determines position of the background image"
+msgstr "Эта настройка определяет как будет расположено фоновое изображение"
+
+#: includes/class-shortcodes-ultimate-extra.php:1164
+msgid "Fullwidth"
+msgstr "Во всю ширину"
+
+#: includes/class-shortcodes-ultimate-extra.php:1165
+msgid ""
+"Set this option to Yes to stretch section to full page width (not just "
+"content part). This option requires single-column page template."
+msgstr ""
+"Задайте значение Да чтобы растянуть секцию на всю ширину страницы (не только "
+"на часть с контентом). Эта опция требует использования шаблона с одной "
+"колонкой."
+
+#: includes/class-shortcodes-ultimate-extra.php:1170
+msgid "Parallax"
+msgstr "Параллакс"
+
+#: includes/class-shortcodes-ultimate-extra.php:1171
+msgid ""
+"Enable parallax effect. Parallax effect may not work in Live preview mode"
+msgstr ""
+"Включить параллакс эффект. Эффект может не работать в режиме предпросмотра"
+
+#: includes/class-shortcodes-ultimate-extra.php:1176
+msgid "Cover"
+msgstr "Обложка"
+
+#: includes/class-shortcodes-ultimate-extra.php:1177
+msgid "Enable cover mode for background image. Image will fit into the section"
+msgstr ""
+"Включить режим обложки для фонового изображения. Изображение будет вписано в "
+"секцию"
+
+#: includes/class-shortcodes-ultimate-extra.php:1185
+msgid "Content width"
+msgstr "Ширина содержимого"
+
+#: includes/class-shortcodes-ultimate-extra.php:1186
+msgid "Maximum width for this section content (px)"
+msgstr "Максимальная ширина для содержимого этой секции (пикс.)"
+
+#: includes/class-shortcodes-ultimate-extra.php:1190
+#: includes/class-shortcodes-ultimate-extra.php:1529
+msgid "Margin"
+msgstr "Внешний отступ"
+
+#: includes/class-shortcodes-ultimate-extra.php:1191
+msgid "Section margin"
+msgstr "Внешний отступ секции"
+
+#: includes/class-shortcodes-ultimate-extra.php:1191
+#: includes/class-shortcodes-ultimate-extra.php:1196
+#: includes/class-shortcodes-ultimate-extra.php:1530
+msgid "top right bottom left"
+msgstr "верхний справа снизу слева"
+
+#: includes/class-shortcodes-ultimate-extra.php:1195
+msgid "Padding"
+msgstr "Внутренний отступ"
+
+#: includes/class-shortcodes-ultimate-extra.php:1196
+msgid "Section padding"
+msgstr "Внутренний отступ секции"
+
+#: includes/class-shortcodes-ultimate-extra.php:1202
+msgid "Top and bottom section borders"
+msgstr "Верхняя и нижняя рамки секции"
+
+#: includes/class-shortcodes-ultimate-extra.php:1208
+msgid "Section text color"
+msgstr "Цвет текста в секции"
+
+#: includes/class-shortcodes-ultimate-extra.php:1224
+msgid "Text shadow"
+msgstr "Тень текста"
+
+#: includes/class-shortcodes-ultimate-extra.php:1225
+msgid "Pick a shadow for section text"
+msgstr "Выберите тень текста для текста внутри этой секции"
+
+#: includes/class-shortcodes-ultimate-extra.php:1230
+msgid "You can type here any hyperlink to make this section clickable"
+msgstr ""
+"Вы можете ввести здесь любую ссылку чтобы сделать эту секцию кликабельной"
+
+#: includes/class-shortcodes-ultimate-extra.php:1252
+msgid "Pricing table"
+msgstr "Таблица тарифных планов"
+
+#: includes/class-shortcodes-ultimate-extra.php:1256
+msgid "Wrapper for pricing plans"
+msgstr "Обертка для нескольких тарифных планов"
+
+#: includes/class-shortcodes-ultimate-extra.php:1263
+msgid "Class"
+msgstr "Класс"
+
+#: includes/class-shortcodes-ultimate-extra.php:1275
+msgid "Pricing plan"
+msgstr "Тарифный план"
+
+#: includes/class-shortcodes-ultimate-extra.php:1279
+msgid "Single pricing plan"
+msgstr "Одиночный тарифный план"
+
+#: includes/class-shortcodes-ultimate-extra.php:1286
+msgid "Plan name"
+msgstr "Имя плана"
+
+#: includes/class-shortcodes-ultimate-extra.php:1287
+msgid "Type here the name of this pricing plan"
+msgstr "Введите здесь имя для этого тарифного плана"
+
+#: includes/class-shortcodes-ultimate-extra.php:1287
+#: includes/class-shortcodes-ultimate-extra.php:1292
+#: includes/class-shortcodes-ultimate-extra.php:1297
+#: includes/class-shortcodes-ultimate-extra.php:1302
+#: includes/class-shortcodes-ultimate-extra.php:1307
+msgid "Example values"
+msgstr "Примеры значений"
+
+#: includes/class-shortcodes-ultimate-extra.php:1287
+msgid "Starter"
+msgstr "Начинающий"
+
+#: includes/class-shortcodes-ultimate-extra.php:1287
+msgid "Business"
+msgstr "Бизнес"
+
+#: includes/class-shortcodes-ultimate-extra.php:1287
+msgid "Professional"
+msgstr "Профессионал"
+
+#: includes/class-shortcodes-ultimate-extra.php:1291
+msgid "Price"
+msgstr "Цена"
+
+#: includes/class-shortcodes-ultimate-extra.php:1292
+msgid "Specify the price for this plan (without currency)."
+msgstr "Укажите цену на этом тарифном плане (без валюты)."
+
+#: includes/class-shortcodes-ultimate-extra.php:1292
+msgid "Free"
+msgstr "Бесплатно"
+
+#: includes/class-shortcodes-ultimate-extra.php:1296
+msgid "Before price"
+msgstr "Перед ценой"
+
+#: includes/class-shortcodes-ultimate-extra.php:1297
+msgid "This text will be shown right before plan price."
+msgstr "Этот текст будет отображен перед ценой тарифного плана."
+
+#: includes/class-shortcodes-ultimate-extra.php:1297
+#: includes/class-shortcodes-ultimate-extra.php:1302
+msgid "It is a good place to add currency."
+msgstr "Это хорошее место чтобы указать валюту."
+
+#: includes/class-shortcodes-ultimate-extra.php:1301
+msgid "After price"
+msgstr "После цены"
+
+#: includes/class-shortcodes-ultimate-extra.php:1302
+msgid "This text will be shown right after plan price."
+msgstr "Этот текст будет отображен после цены тарифного плана."
+
+#: includes/class-shortcodes-ultimate-extra.php:1306
+msgid "Period"
+msgstr "Период"
+
+#: includes/class-shortcodes-ultimate-extra.php:1307
+msgid "Specify plan period. Leave this field empty to hide this text."
+msgstr ""
+"Укажите период тарифного плана. Оставьте поле пустым чтобы скрыть этот текст."
+
+#: includes/class-shortcodes-ultimate-extra.php:1307
+msgid "weekly"
+msgstr "еженедельно"
+
+#: includes/class-shortcodes-ultimate-extra.php:1307
+msgid "per month"
+msgstr "за месяц"
+
+#: includes/class-shortcodes-ultimate-extra.php:1307
+msgid "1 year"
+msgstr "1 год"
+
+#: includes/class-shortcodes-ultimate-extra.php:1312
+msgid "Featured"
+msgstr "Избранный"
+
+#: includes/class-shortcodes-ultimate-extra.php:1313
+msgid "Show this plan as featured"
+msgstr "Отображать этот план как избранный"
+
+#: includes/class-shortcodes-ultimate-extra.php:1319
+#: includes/class-shortcodes-ultimate-extra.php:1325
+msgid ""
+"This color will be applied to the pricing plan head (plan name, price and "
+"period area)"
+msgstr ""
+"Этот цвет будет применен к шапке тарифного плана (блок с именем плана, ценой "
+"периодом)"
+
+#: includes/class-shortcodes-ultimate-extra.php:1330
+msgid "Border color"
+msgstr "Цвет рамки"
+
+#: includes/class-shortcodes-ultimate-extra.php:1331
+msgid "Pick an border color for this plan"
+msgstr "Выберите цвет рамки для этого тарифного плана"
+
+#: includes/class-shortcodes-ultimate-extra.php:1336
+msgid "Featured plan shadow"
+msgstr "Тень избранного плана"
+
+#: includes/class-shortcodes-ultimate-extra.php:1337
+msgid ""
+"Adjust box shadow value. Shadow will be only applied to the featured plans"
+msgstr ""
+"Настройте тень блока. Тень будет отображена только для избранных тарифных "
+"планов"
+
+#: includes/class-shortcodes-ultimate-extra.php:1343
+msgid ""
+"You can add an icon to each pricing plan. Leave this field empty to hide icon"
+msgstr ""
+"Вы можете выбрать иконку для каждого тарифного плана. Оставьте поле пустым, "
+"чтобы не отображать иконку"
+
+#: includes/class-shortcodes-ultimate-extra.php:1349
+msgid ""
+"Pick an icon color. This color will only be applied to the built-in icons"
+msgstr ""
+"Выберите цвет иконки. Этот цвет будет применен только ко встроенным иконкам "
+"плагина"
+
+#: includes/class-shortcodes-ultimate-extra.php:1358
+msgid "Specify icon size (px)"
+msgstr "Выберите размер иконки (пикс.)"
+
+#: includes/class-shortcodes-ultimate-extra.php:1362
+msgid "Button URL"
+msgstr "Ссылка кнопки"
+
+#: includes/class-shortcodes-ultimate-extra.php:1363
+msgid "Enter here the URL for button"
+msgstr "Введите здесь ссылку для кнопки"
+
+#: includes/class-shortcodes-ultimate-extra.php:1368
+msgid "Button link target"
+msgstr "Цель ссылки кнопки"
+
+#: includes/class-shortcodes-ultimate-extra.php:1369
+msgid "Choose button link target"
+msgstr "Выберите цель ссылки кнопки"
+
+#: includes/class-shortcodes-ultimate-extra.php:1377
+msgid "Button text"
+msgstr "Текст кнопки"
+
+#: includes/class-shortcodes-ultimate-extra.php:1378
+msgid "Enter here the text for button."
+msgstr "Введите здесь текст для кнопки."
+
+#: includes/class-shortcodes-ultimate-extra.php:1378
+msgid "Example value"
+msgstr "Пример значения"
+
+#: includes/class-shortcodes-ultimate-extra.php:1378
+msgid "Sign Up"
+msgstr "Регистрация"
+
+#: includes/class-shortcodes-ultimate-extra.php:1383
+msgid "Button background color"
+msgstr "Цвет фона кнопки"
+
+#: includes/class-shortcodes-ultimate-extra.php:1384
+msgid "Choose button background color"
+msgstr "Выберите фоновый цвет кнопки"
+
+#: includes/class-shortcodes-ultimate-extra.php:1389
+msgid "Button text color"
+msgstr "Цвет текста кнопки"
+
+#: includes/class-shortcodes-ultimate-extra.php:1390
+msgid "Choose button text color"
+msgstr "Выберите цвет текста кнопки"
+
+#: includes/class-shortcodes-ultimate-extra.php:1399
+msgid "Option 1"
+msgstr "Опция 1"
+
+#: includes/class-shortcodes-ultimate-extra.php:1399
+msgid "Option 2"
+msgstr "Опция 2"
+
+#: includes/class-shortcodes-ultimate-extra.php:1399
+msgid "Option 3"
+msgstr "Опция 3"
+
+#: includes/class-shortcodes-ultimate-extra.php:1403
+msgid "Testimonial"
+msgstr "Отзыв"
+
+#: includes/class-shortcodes-ultimate-extra.php:1406
+msgid "Styled testimonial box"
+msgstr "Стильный блок с отзывом"
+
+#: includes/class-shortcodes-ultimate-extra.php:1413
+msgid "Person name"
+msgstr "Имя персоны"
+
+#: includes/class-shortcodes-ultimate-extra.php:1414
+msgid "Type here a testimonial author name"
+msgstr "Введите здесь имя автора отзыва"
+
+#: includes/class-shortcodes-ultimate-extra.php:1419
+msgid "Person photo"
+msgstr "Фото персоны"
+
+#: includes/class-shortcodes-ultimate-extra.php:1420
+msgid "Choose testimonial author photo"
+msgstr "Выберите фото для автора отзыва"
+
+#: includes/class-shortcodes-ultimate-extra.php:1424
+msgid "Company"
+msgstr "Компания"
+
+#: includes/class-shortcodes-ultimate-extra.php:1425
+msgid "Type here a company name. Leave this field empty to hide company name"
+msgstr "Укажите имя компании. Оставьте поле пустым чтобы скрыть этот текст"
+
+#: includes/class-shortcodes-ultimate-extra.php:1429
+msgid "Company URL"
+msgstr "Ссылка компании"
+
+#: includes/class-shortcodes-ultimate-extra.php:1430
+msgid "Type here a company URL. Leave this field empty to disable link"
+msgstr "Укажите ссылку компании. Оставьте поле пустым чтобы отключить ссылку"
+
+#: includes/class-shortcodes-ultimate-extra.php:1445
+msgid "Show border"
+msgstr "Показывать рамку"
+
+#: includes/class-shortcodes-ultimate-extra.php:1446
+msgid "Show grey border around this testimonial"
+msgstr "Показывать серую рамку вокруг текста отзыва"
+
+#: includes/class-shortcodes-ultimate-extra.php:1455
+msgid "Testimonial text"
+msgstr "Текст отзыва"
+
+#: includes/class-shortcodes-ultimate-extra.php:1462
+msgid "Fully customizable icon"
+msgstr "Полностью настраиваемая иконка"
+
+#: includes/class-shortcodes-ultimate-extra.php:1471
+msgid "Choose icon shape"
+msgstr "Выберите форму иконки"
+
+#: includes/class-shortcodes-ultimate-extra.php:1477
+msgid "Icon background color"
+msgstr "Цвет фона иконки"
+
+#: includes/class-shortcodes-ultimate-extra.php:1483
+msgid "Icon shape color. This color be only applied to the built-in icons"
+msgstr ""
+"Цвет иконки. Этот цвет будет применен только ко встроенным иконкам плагина"
+
+#: includes/class-shortcodes-ultimate-extra.php:1489
+msgid "Pick a color for icon text"
+msgstr "Выберите цвет текста иконки"
+
+#: includes/class-shortcodes-ultimate-extra.php:1498
+msgid "Icon size (px)"
+msgstr "Размер иконки (пикс.)"
+
+#: includes/class-shortcodes-ultimate-extra.php:1506
+msgid "Shape size"
+msgstr "Размер фона"
+
+#: includes/class-shortcodes-ultimate-extra.php:1507
+msgid "Background shape size (px)"
+msgstr "Размер фона иконки (пикс.)"
+
+#: includes/class-shortcodes-ultimate-extra.php:1515
+msgid "Radius"
+msgstr "Радиус"
+
+#: includes/class-shortcodes-ultimate-extra.php:1516
+msgid "Icon background shape radius (px)"
+msgstr "Радиус фона иконки (пикс.)"
+
+#: includes/class-shortcodes-ultimate-extra.php:1525
+msgid "Icon text size (px)"
+msgstr "Размер текста иконки (пикс.)"
+
+#: includes/class-shortcodes-ultimate-extra.php:1530
+msgid "Icon margin"
+msgstr "Внешний отступ иконки"
+
+#: includes/class-shortcodes-ultimate-extra.php:1535
+msgid "Icon link"
+msgstr "Ссылка иконки"
+
+#: includes/class-shortcodes-ultimate-extra.php:1541
+msgid "Choose icon link target"
+msgstr "Выберите цель ссылки иконки"
+
+#: includes/class-shortcodes-ultimate-extra.php:1557
+msgid "Content slider"
+msgstr "Слайдер содержимого"
+
+#: includes/class-shortcodes-ultimate-extra.php:1561
+msgid "Advanced responsive content slider"
+msgstr "Продвинутый адаптивный слайдер контента"
+
+#: includes/class-shortcodes-ultimate-extra.php:1570
+msgid "Choose slider skin"
+msgstr "Выберите скин слайдера"
+
+#: includes/class-shortcodes-ultimate-extra.php:1580
+msgid "Effect"
+msgstr "Эффект"
+
+#: includes/class-shortcodes-ultimate-extra.php:1581
+msgid "Choose transition animation"
+msgstr "Выберите анимацию при смене слайдов"
+
+#: includes/class-shortcodes-ultimate-extra.php:1583
+msgid "Slide"
+msgstr "Скольжение"
+
+#: includes/class-shortcodes-ultimate-extra.php:1584
+msgid "Fade"
+msgstr "Исчезание"
+
+#: includes/class-shortcodes-ultimate-extra.php:1585
+msgid "Fade Up"
+msgstr "Исчезание вверх"
+
+#: includes/class-shortcodes-ultimate-extra.php:1586
+msgid "Back Slide"
+msgstr "Скольжение сзади"
+
+#: includes/class-shortcodes-ultimate-extra.php:1587
+msgid "Go Down"
+msgstr "Уход вниз"
+
+#: includes/class-shortcodes-ultimate-extra.php:1593
+msgid "Show arrows"
+msgstr "Показывать стрелки"
+
+#: includes/class-shortcodes-ultimate-extra.php:1594
+msgid "Show left/right arrows navigation"
+msgstr "Показывать стрелки навигации влево/вправо"
+
+#: includes/class-shortcodes-ultimate-extra.php:1596
+#: includes/class-shortcodes-ultimate-extra.php:1607
+msgid "Never"
+msgstr "Никогда"
+
+#: includes/class-shortcodes-ultimate-extra.php:1597
+#: includes/class-shortcodes-ultimate-extra.php:1608
+msgid "On hover"
+msgstr "При наведении"
+
+#: includes/class-shortcodes-ultimate-extra.php:1598
+#: includes/class-shortcodes-ultimate-extra.php:1609
+msgid "Always"
+msgstr "Всегда"
+
+#: includes/class-shortcodes-ultimate-extra.php:1604
+msgid "Show pages"
+msgstr "Показывать страницы"
+
+#: includes/class-shortcodes-ultimate-extra.php:1605
+msgid "Show pagination navigation"
+msgstr "Показывать постраничную навигацию"
+
+#: includes/class-shortcodes-ultimate-extra.php:1618
+msgid "Autoplay"
+msgstr "Автовоспроизведение"
+
+#: includes/class-shortcodes-ultimate-extra.php:1619
+msgid "Specify autoplay interval (seconds). Set to 0 to disable autoplay"
+msgstr ""
+"Укажите интервал автоматической смены слайдов (в секундах). Установите на 0 "
+"чтобы отключить автовоспроизведение"
+
+#: includes/class-shortcodes-ultimate-extra.php:1624
+msgid "Autoheight"
+msgstr "Автоматическая высота"
+
+#: includes/class-shortcodes-ultimate-extra.php:1625
+msgid "Adjust slider height after each slide change"
+msgstr "Изменять высоту слайдера после каждой смены слайда"
+
+#: includes/class-shortcodes-ultimate-extra.php:1652
+msgid "Content slide"
+msgstr "Слайд с содержимым"
+
+#: includes/class-shortcodes-ultimate-extra.php:1656
+msgid "Single content slide"
+msgstr "Одиночный слайд с содержимым"
+
+#: includes/class-shortcodes-ultimate-extra.php:1668
+msgid "Slide content"
+msgstr "Содержимое слайда"
+
+#: includes/class-shortcodes-ultimate-extra.php:1675
+msgid "Adds shadow to any nested element"
+msgstr "Добавляет тень любому вложенному элементу"
+
+#: includes/class-shortcodes-ultimate-extra.php:1684
+msgid "Choose shadow style"
+msgstr "Выберите стиль тени"
+
+#: includes/class-shortcodes-ultimate-extra.php:1687
+msgid "Left corner"
+msgstr "Левый угол"
+
+#: includes/class-shortcodes-ultimate-extra.php:1688
+msgid "Right corner"
+msgstr "Правый угол"
+
+#: includes/class-shortcodes-ultimate-extra.php:1689
+msgid "Horizontal"
+msgstr "Горизонтально"
+
+#: includes/class-shortcodes-ultimate-extra.php:1690
+msgid "Vertical"
+msgstr "Вертикально"
+
+#: includes/class-shortcodes-ultimate-extra.php:1691
+msgid "Bottom"
+msgstr "Снизу"
+
+#: includes/class-shortcodes-ultimate-extra.php:1692
+msgid "Simple"
+msgstr "Простой"
+
+#: includes/class-shortcodes-ultimate-extra.php:1698
+msgid "Inline"
+msgstr "Строковый"
+
+#: includes/class-shortcodes-ultimate-extra.php:1699
+msgid ""
+"Display shadow container as an inline element. This option can be useful for "
+"small images and other inline elements"
+msgstr ""
+"Отображать тень как строковый элемент. Эта опция может быть полезна для "
+"небольших изображений и других строчных элементов"
+
+#: shortcodes-ultimate-extra.php:90
+msgid "Vladimir Anokhin"
+msgstr "Владимир Анохин"
+
+#: shortcodes-ultimate-extra.php:92
+msgid "Extra set of shortcodes for Shortcodes Ultimate"
+msgstr "Набор дополнительных шорткодов для Shortcodes Ultimate"
